@@ -158,7 +158,7 @@ events.addEventListener("${this.configs.sseEventName}", function(e) {
     console.info(`serving on: http://0.0.0.0:${this.configs.port}`);
 
     if (this.configs.autoOpen) {
-        open(`http://0.0.0.0:${this.configs.port}`);
+        open(`http://0.0.0.0:${this.configs.port}/ru`);
     }
   }
 }
