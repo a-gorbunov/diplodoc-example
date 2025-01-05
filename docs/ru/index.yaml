@@ -1,5 +1,7 @@
 title: Documentation Template
 links:
+  - title: Микросервисная архитектура
+    href: microservices.md
   - title: Архитектура бэкенда
     href: backend.md
   - title: Архитектура фронтенда
